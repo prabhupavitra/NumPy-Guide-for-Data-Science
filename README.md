@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prabhupavitra/NumPy-Guide-for-Data-Science/blob/master/)
+
 # NumPy-Guide-for-Data-Science
 A Hands-On NumPy Tutorial for Data Scientists
 
